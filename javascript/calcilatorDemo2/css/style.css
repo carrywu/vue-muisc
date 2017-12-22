@@ -1,0 +1,16 @@
+ #pad{
+  padding-left: 2px;
+  padding-right: 2px;
+
+}
+
+.box>div {
+  position: relative;
+  width: 50%;
+  padding: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.form-control{
+  height:60px;
+}
